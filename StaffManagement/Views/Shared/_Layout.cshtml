@@ -52,7 +52,12 @@
         <div>
             @RenderBody()
         </div>
+            
     </div>
+    @if (IsSectionDefined("Scripts"))
+    {
+        RenderSection("Scripts");
+    }
 </body>
 </html>
 

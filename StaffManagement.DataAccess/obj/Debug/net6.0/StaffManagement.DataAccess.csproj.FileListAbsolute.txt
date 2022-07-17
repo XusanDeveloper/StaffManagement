@@ -12,3 +12,17 @@ C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug
 C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.pdb
 C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.genruntimeconfig.cache
 C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\ref\StaffManagement.DataAccess.dll
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.deps.json
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.runtimeconfig.json
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.dll
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.pdb
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.AssemblyInfo.cs
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.dll
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\refint\StaffManagement.DataAccess.dll
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.pdb
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.genruntimeconfig.cache
+C:\Users\PRO\Desktop\newwww\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\ref\StaffManagement.DataAccess.dll

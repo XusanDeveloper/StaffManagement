@@ -18,5 +18,6 @@ namespace StaffManagement.Models
 
         [Required]
         public Departments Department { get; set; }
+        public string ProfilePhotoPath  { get; set; }
     }
 }

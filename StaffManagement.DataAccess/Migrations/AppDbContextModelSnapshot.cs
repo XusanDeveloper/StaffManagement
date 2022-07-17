@@ -41,9 +41,28 @@ namespace StaffManagement.DataAccess.Migrations
                         .HasMaxLength(30)
                         .HasColumnType("nvarchar(30)");
 
+                    b.Property<string>("ProfilePhotoPath")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Staffs");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Department = 6,
+                            Email = "usmon@mail.com",
+                            FullName = "G'oziy"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Department = 5,
+                            Email = "jalol@mail.com",
+                            FullName = "Jaloliddin"
+                        });
                 });
 #pragma warning restore 612, 618
         }

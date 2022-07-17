@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {}
+    "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {
+    "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj",
         "projectName": "StaffManagement.DataAccess",
-        "projectPath": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\xusan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PRO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xusan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

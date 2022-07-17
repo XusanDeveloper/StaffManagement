@@ -1846,19 +1846,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xusan\\.nuget\\packages\\": {}
+    "C:\\Users\\PRO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement\\StaffManagement.csproj",
+      "projectUniqueName": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement\\StaffManagement.csproj",
       "projectName": "StaffManagement",
-      "projectPath": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement\\StaffManagement.csproj",
-      "packagesPath": "C:\\Users\\xusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement\\obj\\",
+      "projectPath": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement\\StaffManagement.csproj",
+      "packagesPath": "C:\\Users\\PRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xusan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1872,8 +1872,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\xusan\\Desktop\\.NET\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj"
+            "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\PRO\\Desktop\\newwww\\StaffManagement\\StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj"
             }
           }
         }
@@ -1913,7 +1913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
