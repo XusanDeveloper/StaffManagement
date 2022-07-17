@@ -1,0 +1,14 @@
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.deps.json
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.runtimeconfig.json
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.dll
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\bin\Debug\net6.0\StaffManagement.DataAccess.pdb
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.AssemblyInfo.cs
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.dll
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\refint\StaffManagement.DataAccess.dll
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.pdb
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\StaffManagement.DataAccess.genruntimeconfig.cache
+C:\Users\xusan\Desktop\.NET\StaffManagement\StaffManagement.DataAccess\obj\Debug\net6.0\ref\StaffManagement.DataAccess.dll

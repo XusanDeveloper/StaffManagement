@@ -23,15 +23,31 @@ namespace StaffManagement.Controllers
         }
 
 
-        public ViewResult Details()
+        public ViewResult Details(int? id)
         {
             HomeDetailsViewModel viewModel = new HomeDetailsViewModel()
             {
-                staff = _staffRepository.Get(3),
+                staff = _staffRepository.Get(id ?? 1),
                 title = "Staff Details" 
             };
             return View(viewModel);
         }
 
+        [HttpGet]
+        public ViewResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Staff staff)
+        {
+            if (ModelState.IsValid)
+            {
+                var newStaff = _staffRepository.Create(staff);
+                return RedirectToAction("details", new { id = newStaff.Id });
+            }
+            return View();
+        }
     }
 }
